@@ -70,4 +70,9 @@ All visuals follow consistent colors, clean labels, and a professional layout.
 
 ```bash
 git clone https://github.com/TFCindy/Uber-Fares-Analysis.git
+## 📑 Report
+
+For detailed explanations of objectives, methods, key findings, and business recommendations, see [`REPORT.md`](./REPORT.md).
+
+---
 
