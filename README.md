@@ -23,7 +23,7 @@ The final deliverables include:
 ## ⚙️ Methodology
 
 **Data Source:**  
-- Original dataset: [Uber Fares Dataset from Kaggle](#) *(add link if public)*
+- Original dataset: [Uber Fares Dataset from Kaggle](#)
 
 **Key Steps:**  
 1. **Data Cleaning:**  
